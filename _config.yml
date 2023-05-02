@@ -168,13 +168,16 @@ kramdown:
 
 # Collections
 collections:
-  research:
+  CV:
     output: true
     permalink: /:collection/:path/
-  publications:
+  Research:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  Teaching:
+    output: true
+    permalink: /:collection/:path/
+  Contact:
     output: true
     permalink: /:collection/:path/
 
