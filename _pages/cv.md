@@ -11,5 +11,5 @@ redirect_from:
 
 
 
-My [CV](https://github.com/chaeeun-cho/chaeeun-cho.github.io/blob/ac95442932da1d84e361784981459213c0ad1293/Cho_CV_April2023.pdf) is available here.
+My [CV](https://github.com/chaeeun-cho/chaeeun-cho.github.io/blob/master/Cho_CV_April2023.pdf) is available here.
 
