@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "ChaeEun Cho"
 title_separator          : "-"
 name                     : &name "ChaeEun Cho"
 description              : &description "Welcome! I am a Ph.D. Candidate in Political Science at Vanderbilt University. My research lies at the intersection of international security, international political economy, and political methodology. My disseration investigates when and why countries cooperate on economic sanctions and how firms respond to political disputes."
@@ -104,17 +104,10 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+
 
 
 # Reading Files
@@ -175,18 +168,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
