@@ -85,29 +85,12 @@ author:
   bio              : "Ph.D. Candidate in Political Science, Vanderbilt University"
   location         : "Nashville, TN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : chaeeun[dot]cho[at]vanderbilt[dot]edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  soundcloud       :
+  github           : "chaeeun-cho"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  twitter          : "replacethistwitterhandle"
-
+  twitter          : "chaeeun.cho"
 
 
 # Reading Files
