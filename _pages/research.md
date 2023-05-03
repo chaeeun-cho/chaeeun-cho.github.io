@@ -13,22 +13,22 @@ author_profile: true
 <h3> Works In Progress </h3> 
 
 <ul>
-<li>Leveraging Mutual Trade Partnerships: Examining the Role of Mutual Trade Partners on Sanction Imposition.
+<li>Leveraging Mutual Trade Partnerships: Examining the Role of Mutual Trade Partners on Sanction Imposition
   </li>
 </ul>
 
 <ul>
-<li>Who Gets on Board? Exploring the Role of Trade Export Similarity in Determining Participation in Economic Sanctions.
+<li>Who Gets on Board? Exploring the Role of Trade Export Similarity in Determining Participation in Economic Sanctions [Data Analysis Stage]
  </li>
 </ul>
 
 <ul>
-<li>Standing Firm or Caving In? The Effect of State Control and Foreign Policy Preferences on Firms’ Exit Decisions.
+<li>Standing Firm or Caving In? The Effect of State Control and Foreign Policy Preferences on Firms’ Exit Decisions [Research Design Stage]
  </li>
 </ul>
 
 <ul>
-<li>Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era.
+<li>Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era
  </li>
 </ul>
 
