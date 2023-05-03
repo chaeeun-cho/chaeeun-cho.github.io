@@ -10,5 +10,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+    
+  - title: "Teachingtest"
+    url: /teachingtest/    
+    
+    
   - title: "Contact"
     url: /contact/
