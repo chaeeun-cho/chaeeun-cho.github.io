@@ -8,8 +8,12 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-Heading 1
+
+Graduate Level
 ======
+
+Math Camp, Summer 2023 (scheduled)
+Mathematics & Statistics
 
 Undergraduate Level
 ======
@@ -26,8 +30,7 @@ Teaching Assistant for Brad Smith
 Introduction to International Relations
 Teaching Assistant for Jenn Larson
 
-Heading 2
-======
+
 
 Heading 3
 ======
