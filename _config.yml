@@ -146,9 +146,6 @@ collections:
   Teaching:
     output: true
     permalink: /:collection/:path/
-  Teachingtest:
-    output: true
-    permalink: /:collection/:path/
   Contact:
     output: true
     permalink: /:collection/:path/
