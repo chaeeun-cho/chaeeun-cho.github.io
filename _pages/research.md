@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<h3> Work in progress </h3> 
+<h3> Works In Progress </h3> 
 
 <ul>
 <li>Leveraging Mutual Trade Partnerships: Examining the Role of Mutual Trade Partners on Sanction Imposition.
