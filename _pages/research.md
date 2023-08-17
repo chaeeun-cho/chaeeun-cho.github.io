@@ -31,7 +31,7 @@ Why do some multinational corporations (MNCs) comply with economic sanctions whi
 </ul>
 
 <ul>
-<li><h4><strong> Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era </strong></h4> 
+<li><h3>Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era </h3>
  </li>
 </ul>
 
