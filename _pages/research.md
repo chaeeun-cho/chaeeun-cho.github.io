@@ -25,6 +25,9 @@ author_profile: true
 <ul>
 <li><h4><strong>Standing Firm or Caving In? The Effect of State Control and Foreign Policy Preferences on Firms’ Exit Decisions </strong>[Research Design Stage]</h4> 
  </li>
+
+Why do some multinational corporations (MNCs) comply with economic sanctions while others continue to conduct their business with the target states? I argue that the ownership structure of firms and the foreign policy preferences of their home country are essential factors in understanding firms' decision to exit from targeted countries in response to economic sanctions. I use newly collected data on firm ownership as well as foreign policy similarity based on United Nations voting data to estimate the effect of political relations on firms’ exit decision from Russia. I expect that state-owned enterprises (SOEs) are less likely to exit from the target country than private enterprises when their home country shares a close foreign policy preference with the target country. Conversely, SOEs are more likely to exit from the target country than private enterprises when their home country's foreign policy preference is distant from the target country.
+
 </ul>
 
 <ul>
