@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<strong> Works In Progress </strong> 
+<strong> Working Paper </strong> 
 
 <ul>
 <li><h3><strong>Leveraging Mutual Trade Partnerships: Examining the Role of Mutual Trade Partners on Sanction Imposition </strong></h3>  </li>
@@ -22,6 +22,15 @@ How the global trade network affects the initiation of sanctions threat and its 
 This paper explores the motivations behind states joining economic sanctions. While prior literature has largely focused on economic incentives for breaking sanctions, this study highlights the potential for third-party states to join sanctions for economic reasons. Specifically, third-party states that compete with the target state for similar exports may disrupt trade to gain a competitive edge in foreign markets. By analyzing commodity-level trade data from 1962 to 2015, this study finds that countries that share similar export portfolios with the target are more likely to join sanctioning coalitions
 </ul>
 
+
+
+<ul>
+<li><h3>Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era </h3>
+ </li>
+</ul>
+
+
+<strong> Works In Progress </strong> 
 <ul>
 <li><h3><strong>Standing Firm or Caving In? The Effect of State Control and Foreign Policy Preferences on Firms’ Exit Decisions </strong>[Research Design Stage]</h3> 
  </li>
@@ -29,12 +38,6 @@ This paper explores the motivations behind states joining economic sanctions. Wh
 Why do some multinational corporations (MNCs) comply with economic sanctions while others continue to conduct their business with the target states? I argue that the ownership structure of firms and the foreign policy preferences of their home country are essential factors in understanding firms' decision to exit from targeted countries in response to economic sanctions. I use newly collected data on firm ownership as well as foreign policy similarity based on United Nations voting data to estimate the effect of political relations on firms’ exit decision from Russia. I expect that state-owned enterprises (SOEs) are less likely to exit from the target country than private enterprises when their home country shares a close foreign policy preference with the target country. Conversely, SOEs are more likely to exit from the target country than private enterprises when their home country's foreign policy preference is distant from the target country.
 
 </ul>
-
-<ul>
-<li><h3>Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era </h3>
- </li>
-</ul>
-
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
