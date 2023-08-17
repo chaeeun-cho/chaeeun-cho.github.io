@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<strong> Working Papers </strong> 
+<h2>Working Papers</h2> 
 
 <ul>
 <li><h3><strong>Leveraging Mutual Trade Partnerships: Examining the Role of Mutual Trade Partners on Sanction Imposition </strong></h3>  </li>
