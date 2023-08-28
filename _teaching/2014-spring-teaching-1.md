@@ -12,7 +12,7 @@ location: "City, Country"
 Graduate Level
 ======
 
-Math Camp, Summer 2023 (scheduled)
+Math Camp, Summer 2023
 Mathematics & Statistics
 
 
