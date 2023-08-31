@@ -14,6 +14,6 @@ Welcome! I am a Ph.D. candidate in Political Science at Vanderbilt University. M
 In my dissertation project, I investigate when and why third-party actors cooperate on economic sanctions. Specifically, my research examines conditions under which countries are more likely to cooperate on imposing sanctions. My other research considers the government's strategies to promote firms' compliance with sanctions policies.
 
 
-Before my Ph.D., I earned a Bachelor of Political Science and Communciation from University of Washington at Seattle and an M.A. degree in International Relations from Seoul National University.
+Before my Ph.D., I earned a Bachelor of Political Science and Communciation from University of Washington at Seattle and a M.A. degree in International Relations from Seoul National University.
 
 
