@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in Political Science at Vanderbilt University. My research lies at the intersection of international security, international political economy, and political methodology, with a particular focus on economic coercion. In my dissertation project, I investigate when and why third-party actors cooperate on economic sanctions. Specifically, my research seeks to uncover the conditions under which countries are more likely to cooperate on imposing sanctions, as well as the strategies that governments can use to promote firms' compliance with sanctions policies.
+Welcome! I am a Ph.D. candidate in Political Science at Vanderbilt University. My research lies at the intersection of international security, international political economy, and political methodology, with a particular focus on economic coercion. In my dissertation project, I investigate when and why third-party actors cooperate on economic sanctions. Specifically, my research examines conditions under which countries are more likely to cooperate on imposing sanctions. My other research considers the government's strategies to promote firms' compliance with sanctions policies.
+
+
+Before my Ph.D., I earned a Bachelor of Political Science and Communciation from University of Washington and an M.A. degree in International Relations from Seoul National University.
+
