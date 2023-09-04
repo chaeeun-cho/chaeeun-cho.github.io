@@ -16,4 +16,4 @@ A central interest of my work is understanding how different types of actors in 
 
 Before my Ph.D., I earned a Bachelor of Political Science and Communciation from University of Washington at Seattle and a M.A. degree in International Relations from Seoul National University.
 
-
+Email: chaeeun.cho[at]vanderbilt.edu
