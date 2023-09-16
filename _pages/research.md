@@ -27,7 +27,7 @@ author_profile: true
 
 <h2> Works In Progress </h2> 
 <ul>
-<li> Standing Firm or Caving In? The Effect of State Control and Foreign Policy Preferences on Firms’ Exit Decisions [Data Collection Stage] [Slide] <a href="https://drive.google.com/drive/u/0/my-drive?q=after:2023-09-16%20parent:0AILrAeYf331DUk9PVA/preview">Slides</a>
+<li> Standing Firm or Caving In? The Effect of State Control and Foreign Policy Preferences on Firms’ Exit Decisions <a href="https://drive.google.com/drive/u/0/my-drive?q=after:2023-09-16%20parent:0AILrAeYf331DUk9PVA/preview">slides</a>
   
  </li>
 
