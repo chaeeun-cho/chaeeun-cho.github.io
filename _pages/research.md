@@ -14,7 +14,7 @@ author_profile: true
 
 
 <ul>
-<li>Who Gets on Board? Exploring the Role of Trade Export Similarity in Determining Participation in Economic Sanctions - _Job Market Paper _</li>
+<li>Who Gets on Board? Exploring the Role of Trade Export Similarity in Determining Participation in Economic Sanctions - Job Market Paper [<a href="https://drive.google.com/file/d/1VQ1vC0HL5T8FK4SyAepXqi3e9e9ZyJEj/preview">slides</a>] </li>
 <small> This paper explores the economic motivations driving states to join sanctions. While prior literature has largely focused on economic incentives for evading sanctions, this study highlights the potential for third-party states to engage in sanctions for economic gains. I argue that third-party states engaged in export competition with the target state may strategically join sanctioning aimed at disrupting the target's trade, thereby gaining a competitive edge in foreign markets. To test this argument, I collect an original dataset on sanctioning coalitions spanning from 1945 to 2015. By analyzing commodity-level trade data, I find that countries sharing similar export portfolios with the target state are more likely to join sanctioning coalitions. I also find that the target's export competitors are more likely to participate in sanctions restricting exports from the target state. This research not only offers valuable insights for policymakers tasked with designing effective sanctions regimes but also sheds new light on the substantial role of economic interests in shaping the third-party state's the decision to join sanctioning coalitions. </small>
 </ul>
 
