@@ -19,7 +19,7 @@ author_profile: true
 </ul>
 
 <ul>
-<li>Influencing Beyond Your Boundaries: Shared Trade Partners and Economic Sanctions </li> [<a href="https://drive.google.com/file/d/12-ksTmFPiWjg9MoajdUKwXARulAzlsgN/preview">paper</a>] </li>
+<li>Influencing Beyond Your Boundaries: Shared Trade Partners and Economic Sanctions [<a href="https://drive.google.com/file/d/12-ksTmFPiWjg9MoajdUKwXARulAzlsgN/preview">paper</a>] </li>
   
 <small> How the global trade network affects the initiation of sanctions threat and its success. I argue that the shared trade partner between the potential sender and the target plays an important role in shaping the sender's ability to exercise power over the target. The sender’s ability to inflict pain on the target not only comes from the sender's trade value to the target but also the sender’s economic leverage on the shared trade partners, who can influence on the outcome of sanctions by joining sanction coalitions. Employing the Threat and Imposition of Sanctions (TIES) data set, I show that states are more likely to issue sanctions threats and sanction impositions as the sender state has greater indirect leverage over the target through the shared trade partners. Furthermore, I find that while the sender's indirect leverage is positively correlated with the target's acquiescence to sanction impositions, there is no statistically significant relationship between the sender's indirect leverage and target's acquiescence to sanction threats.</small>
 </ul>
