@@ -34,12 +34,15 @@ author_profile: true
   
  </li>
 
-<small> Why do some multinational corporations (MNCs) comply with economic sanctions while others continue to conduct their business with the target states? I argue that the ownership structure of firms and the foreign policy preferences of their home country are essential factors in understanding firms' decision to exit from targeted countries in response to economic sanctions. I use newly collected data on firm ownership as well as foreign policy similarity based on United Nations voting data to estimate the effect of political relations on firms’ exit decision from Russia. I expect that state-owned enterprises (SOEs) are less likely to exit from the target country than private enterprises when their home country shares a close foreign policy preference with the target country. Conversely, SOEs are more likely to exit from the target country than private enterprises when their home country's foreign policy preference is distant from the target country.</small>
+<small> Why do some multinational corporations (MNCs) comply with economic sanctions while others continue to conduct their business with the target states? I argue that the ownership structure of firms and the foreign policy preferences of their home country are essential factors in understanding firms' decision to exit from targeted countries in response to economic sanctions. I use newly collected data on firm ownership as well as foreign policy similarity based on United Nations voting data to estimate the effect of political relations on firms’ exit decision from Russia. I find that state-owned enterprises (SOEs) are less likely to exit from the target country than private enterprises when their home country shares a close foreign policy preference with the target country. Conversely, SOEs are more likely to exit from the target country than private enterprises when their home country's foreign policy preference is distant from the target country.</small>
 </ul>
 
 <ul>
 <li> Government Procurement and US Firms' Exit from the Russian Market: Evidence from the Russian invasion of Ukraine
  </li>
+
+<small> In this paper, I argue that the extent to which firms rely on public procurement as a source of revenue plays a pivotal role in understanding their decisions to exit from states under economic sanctions. Using a dataset of U.S. government contracts, I estimate the effect of government contract on firms’ exit decisions from Russia.
+
 </ul>
 
 
