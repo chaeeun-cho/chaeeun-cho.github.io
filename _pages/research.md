@@ -38,6 +38,12 @@ author_profile: true
 </ul>
 
 <ul>
+<li> Government Procurement and US Firms' Exit from the Russian Market: Evidence from the Russian invasion of Ukraine
+ </li>
+</ul>
+
+
+<ul>
 <li> Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era
  </li>
 </ul>
