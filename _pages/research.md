@@ -45,7 +45,7 @@ author_profile: true
 </ul>
 
 <ul>
-<li> Government Procurement and US Firms' Exit from the Russian Market: Evidence from the Russian invasion of Ukraine
+<li> Government Procurement and US Firms' Exit from the Russian Market: Evidence from the Russian invasion of Ukraine [Data Collection Stage]
  </li>
 
 <small> In this paper, I argue that the extent to which firms rely on public procurement as a source of revenue plays a pivotal role in understanding their decisions to exit from states under economic sanctions. Using a dataset of U.S. government contracts, I estimate the effect of government contract on firms’ exit decisions from Russia.</small>
