@@ -26,7 +26,7 @@ author_profile: true
 
 
 <ul>
-<li> Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era [<a href="https://drive.google.com/file/d/18IHjOlpeKypDb8MqF2KarADwaw-UGkm5/preview">slides</a>] </li>
+<li> Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era [<a href="https://drive.google.com/file/d/18IHjOlpeKypDb8MqF2KarADwaw-UGkm5/preview">paper</a>] </li>
 
 <small>   This paper examines how two major factors of nuclear deterrence, the U.S. nuclear weapon capability and its willingness to launch a nuclear strike have affected on changes in North Korea’s nuclear discourse in the Cold War era (1957~1986). I apply two types of automated text analysis that are useful for understanding historical changes in North Korean nuclear discourse to an original collection of 2,578 articles from Rodong Sinmun, North Korea’s official newspaper, from 1957 to 1986: macro text analysis-correlation analysis and document clustering- and micro text analysis-word frequency, network analysis and sentiment analysis-. The findings show that critical breaks of North Korea’s nuclear discourse was associated with major changes in US nuclear policies. Interestingly, the study also reveals that despite a reduction in USFK nuclear weapons capacity in the 1970s, the level of threat perception increased when the U.S. explicitly expressed its intention to launch a nuclear attack. This suggests that threat perception largely constructed by on how a country interprets the security reality surrounding its own country rather than objective assessments of material power. </small>
 </ul>
