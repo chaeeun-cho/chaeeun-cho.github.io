@@ -71,9 +71,9 @@ analytics:
 author:
   name             : "ChaeEun Cho"
   avatar           : "cho_profile.png"
-  bio              : "Assistant Professor, Vanderbilt University"
+  bio              : "Assistant Professor"
   location         : "Ankara, Türkiye"
-  employer         :
+  employer         : "Vanderbilt University"
   email            : chaeeun.cho@bilkent.edu.tr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "chaeeun-cho"
