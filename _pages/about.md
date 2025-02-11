@@ -16,5 +16,5 @@ A central interest of my work is understanding how different types of actors in 
 
 I received my Ph.D. in Political Science from Vanderbilt University. Before my Ph.D., I earned a Bachelor of Political Science and Communciation from University of Washington at Seattle and a M.A. degree in International Relations from Seoul National University.
 
-Email: chaeeun.cho[at]bilkent.edu.tr
+Email: chaeeun dot cho at bilkent dot edu dottr
 
