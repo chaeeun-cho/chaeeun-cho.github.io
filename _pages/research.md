@@ -24,13 +24,6 @@ author_profile: true
 <small> How the global trade network affects the initiation of sanctions threat and its success. I argue that the shared trade partner between the potential sender and the target plays an important role in shaping the sender's ability to exercise power over the target. The sender’s ability to inflict pain on the target not only comes from the sender's trade value to the target but also the sender’s economic leverage on the shared trade partners, who can influence on the outcome of sanctions by joining sanction coalitions. Employing the Threat and Imposition of Sanctions (TIES) data set, I show that states are more likely to issue sanctions threats and sanction impositions as the sender state has greater indirect leverage over the target through the shared trade partners. Furthermore, I find that while the sender's indirect leverage is positively correlated with the target's acquiescence to sanction impositions, there is no statistically significant relationship between the sender's indirect leverage and target's acquiescence to sanction threats.</small>
 </ul>
 
-
-<ul>
-<li> Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era [<a href="https://drive.google.com/file/d/18IHjOlpeKypDb8MqF2KarADwaw-UGkm5/preview">paper</a>] </li>
-
-<small>   This paper examines how two major factors of nuclear deterrence, the U.S. nuclear weapon capability and its willingness to launch a nuclear strike have affected on changes in North Korea’s nuclear discourse in the Cold War era (1957~1986). I apply two types of automated text analysis that are useful for understanding historical changes in North Korean nuclear discourse to an original collection of 2,578 articles from Rodong Sinmun, North Korea’s official newspaper, from 1957 to 1986: macro text analysis-correlation analysis and document clustering- and micro text analysis-word frequency, network analysis and sentiment analysis-. The findings show that critical breaks of North Korea’s nuclear discourse was associated with major changes in US nuclear policies. Interestingly, the study also reveals that despite a reduction in USFK nuclear weapons capacity in the 1970s, the level of threat perception increased when the U.S. explicitly expressed its intention to launch a nuclear attack. This suggests that threat perception largely constructed by on how a country interprets the security reality surrounding its own country rather than objective assessments of material power. </small>
-</ul>
-
 <ul>
 <li> Political Risks, Stakeholder Pressure, and Firm Exits: Evidence from the Russian Invasion of Ukraine [<a href="https://drive.google.com/file/d/1xOYZRaVjrt_7kwlK-Z5ZLVQbAfhd_M8n/preview">slides</a>]
   
@@ -38,6 +31,14 @@ author_profile: true
 
 <small> Why do some multinational corporations (MNCs) comply with economic sanctions while others persist in conducting business with the target states? I argue that a home country’s preferred position on economic sanctions and firms’ political connections are crucial factors in understanding their decisions to cease operations in the sanctioned states. Specifically, my theory highlights that politically connected firms (state-owned enterprises (SOEs) and firms benefiting from public procurement contracts) are more likely to align their business strategies with their home government’s foreign policy objectives than non-connected firms (private enterprises and firms without public procurement contracts). Leveraging a dataset from Yale School of Management that tracks the level of MNC withdrawal from Russia, I estimate how a firm’s political connections moderates the effect of the sanction imposition on firm exits from Russia. This study sheds light on how businesses navigate the heightened uncertainty in the midst of international conflicts.</small>
 </ul>
+
+
+<ul>
+<li> Analyzing the Impact of the U.S. Nuclear Policy on North Korea’s Nuclear Discourse during the Cold War era [<a href="https://drive.google.com/file/d/18IHjOlpeKypDb8MqF2KarADwaw-UGkm5/preview">paper</a>] </li>
+
+<small>   This paper examines how two major factors of nuclear deterrence, the U.S. nuclear weapon capability and its willingness to launch a nuclear strike have affected on changes in North Korea’s nuclear discourse in the Cold War era (1957~1986). I apply two types of automated text analysis that are useful for understanding historical changes in North Korean nuclear discourse to an original collection of 2,578 articles from Rodong Sinmun, North Korea’s official newspaper, from 1957 to 1986: macro text analysis-correlation analysis and document clustering- and micro text analysis-word frequency, network analysis and sentiment analysis-. The findings show that critical breaks of North Korea’s nuclear discourse was associated with major changes in US nuclear policies. Interestingly, the study also reveals that despite a reduction in USFK nuclear weapons capacity in the 1970s, the level of threat perception increased when the U.S. explicitly expressed its intention to launch a nuclear attack. This suggests that threat perception largely constructed by on how a country interprets the security reality surrounding its own country rather than objective assessments of material power. </small>
+</ul>
+
 
 
 <p></p>
