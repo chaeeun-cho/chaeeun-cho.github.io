@@ -31,24 +31,23 @@ author_profile: true
 <small>   This paper examines how two major factors of nuclear deterrence, the U.S. nuclear weapon capability and its willingness to launch a nuclear strike have affected on changes in North Korea’s nuclear discourse in the Cold War era (1957~1986). I apply two types of automated text analysis that are useful for understanding historical changes in North Korean nuclear discourse to an original collection of 2,578 articles from Rodong Sinmun, North Korea’s official newspaper, from 1957 to 1986: macro text analysis-correlation analysis and document clustering- and micro text analysis-word frequency, network analysis and sentiment analysis-. The findings show that critical breaks of North Korea’s nuclear discourse was associated with major changes in US nuclear policies. Interestingly, the study also reveals that despite a reduction in USFK nuclear weapons capacity in the 1970s, the level of threat perception increased when the U.S. explicitly expressed its intention to launch a nuclear attack. This suggests that threat perception largely constructed by on how a country interprets the security reality surrounding its own country rather than objective assessments of material power. </small>
 </ul>
 
+<ul>
+<li> Political Risks, Stakeholder Pressure, and Firm Exits: Evidence from the Russian Invasion of Ukraine [<a href="https://drive.google.com/file/d/1xOYZRaVjrt_7kwlK-Z5ZLVQbAfhd_M8n/preview">slides</a>]
+  
+ </li>
+
+<small> Why do some multinational corporations (MNCs) comply with economic sanctions while others persist in conducting business with the target states? I argue that a home country’s preferred position on economic sanctions and firms’ political connections are crucial factors in understanding their decisions to cease operations in the sanctioned states. Specifically, my theory highlights that politically connected firms (state-owned enterprises (SOEs) and firms benefiting from public procurement contracts) are more likely to align their business strategies with their home government’s foreign policy objectives than non-connected firms (private enterprises and firms without public procurement contracts). Leveraging a dataset from Yale School of Management that tracks the level of MNC withdrawal from Russia, I estimate how a firm’s political connections moderates the effect of the sanction imposition on firm exits from Russia. This study sheds light on how businesses navigate the heightened uncertainty in the midst of international conflicts.</small>
+</ul>
 
 
 <p></p>
 
 <h2> Works In Progress </h2> 
-<ul>
-<li> Standing Firm or Caving In? The Effect of State Control and Foreign Policy Preferences on Firms’ Exit Decisions [<a href="https://drive.google.com/file/d/1xOYZRaVjrt_7kwlK-Z5ZLVQbAfhd_M8n/preview">slides</a>]
-  
- </li>
 
-<small> Why do some multinational corporations (MNCs) comply with economic sanctions while others continue to conduct their business with the target states? I argue that the ownership structure of firms and the foreign policy preferences of their home country are essential factors in understanding firms' decision to exit from targeted countries in response to economic sanctions. I use newly collected data on firm ownership as well as foreign policy similarity based on United Nations voting data to estimate the effect of political relations on firms’ exit decision from Russia. I find that state-owned enterprises (SOEs) are less likely to exit from the target country than private enterprises when their home country shares a close foreign policy preference with the target country. Conversely, SOEs are more likely to exit from the target country than private enterprises when their home country's foreign policy preference is distant from the target country.</small>
-</ul>
 
 <ul>
-<li> Government Procurement and US Firms' Exit from the Russian Market: Evidence from the Russian invasion of Ukraine [Data Collection Stage]
- </li>
-
-<small> In this paper, I argue that the extent to which firms rely on public procurement as a source of revenue plays a pivotal role in understanding their decisions to exit from states under economic sanctions. Using a dataset of U.S. government contracts, I estimate the effect of government contract on firms’ exit decisions from Russia.</small>
+<li> Historical Narratives and Anti-Immigration Attitudes [Research Design Stage]
+</li>
 
 </ul>
 
